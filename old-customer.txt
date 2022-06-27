@@ -1,0 +1,7 @@
+
+Customer ID: 1111
+Name: chetan
+Age: 20
+Mobile Number: 8484884
+Adress: las;/sa
+Gender: M
