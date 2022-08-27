@@ -1,11 +1,11 @@
--------------ABC Travel Agency--------
---------------Receipt-----------------
-Customer ID: 1111
+------------------Brungeshwar Travel Agency-------------
+--------------------Receipt----------------------
+Customer ID: 12345
 
 Description		 Total
-Hotel cost:		10000.00
-Travel (cab) cost: 	2250.00
+Hotel cost:		0.00
+Travel (cab) cost: 	15.00
 _____________________________
-Total Charges:		12250.00
+Total Charges:		15.00
 ________________________
 -----------THANK YOU-------

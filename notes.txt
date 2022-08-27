@@ -1,0 +1,24 @@
+    `                                 Travel Management System
+
+        Manage Customer        Manage Cabs              Manage Booking          Billing        
+                |                   |                       |                       |
+        Useer Details(name,     cab choice;             hotel choice            cab charge,hotel
+        age)etc..               kilometers;             packages; hotels[];     charge;total cost
+        Get Details...          cost CabDetails()       cost;                   printBill();
+                                                        Hotels()                show Bill();
+
+
+
+**File handling concepts
+
+receipt.txt----(CustomerId,cost for ecaht item,total charge);
+old-customer.txt---(save all details & customers who used the system);
+
+
+
+    Manage system main menu
+        |
+    Manage Menu()--------Main menu()
+        
+
+g++ -o <name-you-want-to-give> source.cpp//tor run c++ code
